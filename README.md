@@ -4,7 +4,7 @@ A **powerful and free TASS web scraper** designed to efficiently aggregate news 
 
 ## 🔥 Features
 
-- [x] Scrape as many news articles as you need
+- [x] Provide a number of articles to scrape
 - [x] Multiple news categories
 - [x] Built-in top 10 words analysis algorithm
 - [x] Export to both JSON and CSV formats
@@ -147,7 +147,7 @@ The scraper creates a directory named `news_data` (or your specified output dire
 
 ### JSON Output Format
 
-See an [example JSON file](example%20outputs/politics_20.json) with 20 headlines and analysed top words.
+See an [example JSON file](tass%20output20examples/politics_20.json) with 20 headlines and analysed top words.
 
 ```json
 [
@@ -174,7 +174,7 @@ See an [example JSON file](example%20outputs/politics_20.json) with 20 headlines
 
 ### CSV Output Format
 
-See an [example CSV file](example%20outputs/politics_20.csv) with 20 headlines and analysed top words.
+See an [example CSV file](tass%20output20examples/politics_20.csv) with 20 headlines and analysed top words.
 
 Each article is flattened into a single row with columns:
 - title
