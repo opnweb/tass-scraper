@@ -186,6 +186,6 @@ Each article is flattened into a single row with columns:
 - top_word_1_count to top_word_10_count (if enabled)
 
 
-Hopefully, this tool can aid the fight against russian propaganda by providing an easy to use tool that collects propaganda data rapidly and on a large scale. 
+This tool is here to, hopefully, step up the fight against russian propaganda by making it easier than ever to rapidly gather large-scale propaganda data for analysis.
 
-Anyone is welcome and encouraged to use the scraper code and integrate into your own processes.
+Feel free to grab the scraper code, make it yours, and plug it into your workflow.
