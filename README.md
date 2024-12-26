@@ -142,12 +142,12 @@ If you want to specify your custom folder where to save all the data, you can do
 ## 📤 Output
 
 The scraper creates a directory named `news_data` (or your specified output directory) containing:
-- One file per category (JSON or CSV) with scraped articles (see both examples [here](tass%20output20examples))
+- One file per category (JSON or CSV) with scraped articles (see both examples [here](tass%20output%20examples))
 - A `logs` subdirectory with detailed execution logs
 
 ### JSON Output Format
 
-See an [example JSON file](tass%20output20examples/politics_20.json) with 20 headlines and analysed top words.
+See an [example JSON file](tass%20output%20examples/politics_20.json) with 20 headlines and analysed top words.
 
 ```json
 [
@@ -174,7 +174,7 @@ See an [example JSON file](tass%20output20examples/politics_20.json) with 20 hea
 
 ### CSV Output Format
 
-See an [example CSV file](tass%20output20examples/politics_20.csv) with 20 headlines and analysed top words.
+See an [example CSV file](tass%20output%20examples/politics_20.csv) with 20 headlines and analysed top words.
 
 Each article is flattened into a single row with columns:
 - title
