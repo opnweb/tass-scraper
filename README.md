@@ -11,6 +11,7 @@ A **powerful and free TASS web scraper** designed to efficiently aggregate news 
 - [x] Configurable concurrent workers for faster scraping
 - [x] Automatic retry mechanism for failed requests
 - [x] Adjustable parameters for best performance and personal customization
+- [X] No need to have Python - download the compiled version and run it
 - [x] Control it through your computer's terminal / command prompt
 
 ## ✨ Demonstration (2.5x speed)
