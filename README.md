@@ -1,6 +1,6 @@
 # TASS News Scraper
 
-A **powerful and free TASS web scraper** designed to efficiently aggregate news articles from `tass.com`. This data extraction tool enables journalists, researchers, and organizations to gather large datasets of Russian state media content for analysing propaganda patterns and narratives.
+A **powerful and free TASS web scraper** designed to efficiently aggregate news articles from `tass.com`. This data extraction tool enables journalists, researchers, and organizations to gather large datasets of russian state media content for analysing propaganda patterns and narratives.
 
 ## 🔥 Features
 
@@ -184,3 +184,8 @@ Each article is flattened into a single row with columns:
 - content
 - top_word_1 to top_word_10 (if enabled)
 - top_word_1_count to top_word_10_count (if enabled)
+
+
+Hopefully, this tool can aid the fight against russian propaganda by providing an easy to use tool that collects propaganda data rapidly and on a large scale. 
+
+Anyone is welcome and encouraged to use the scraper code and integrate into your own processes.
