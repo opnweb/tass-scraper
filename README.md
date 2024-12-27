@@ -14,10 +14,6 @@ A **powerful and free TASS web scraper** designed to efficiently aggregate news 
 - [X] No need to have Python - download the compiled version and run it
 - [x] Control it through your computer's terminal / command prompt
 
-## ✨ Demonstration (2.5x speed)
-
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODAzejh6Z3BsYnQ2dHJ6NnVlYWZ0eGlxajNsbmo2YXBtOTVkNTI1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cluf8IiSUkq7uiKwXa/giphy.gif)
-
 ## 💿 Setup
 
 ### ⊞ Windows
